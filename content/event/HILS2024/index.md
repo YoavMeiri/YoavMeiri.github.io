@@ -25,7 +25,7 @@ featured: false
 
 
 url_code: ''
-url_pdf: 'HILS2024 Abstract - Leveraging Eye-Tracking Data to Align Language Models with Human Repeated Reading Behavior.pdf'
+url_pdf: 'HILS2024_abstract_-_Leveraging_Eye-Tracking_Data_to_Align_Language_Models_with_Human_Repeated_Reading_Behavior'
 url_slides: ''
 url_video: ''
 
