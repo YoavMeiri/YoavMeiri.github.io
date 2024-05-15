@@ -151,26 +151,26 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
-    content:
-      count: 10
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: compact
-  # - block: tag_cloud
+  # - block: collection
   #   content:
-  #     title: Popular Topics
+  #     count: 10
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
   #   design:
   #     columns: '2'
+  #     view: compact
+  # # - block: tag_cloud
+  # #   content:
+  # #     title: Popular Topics
+  # #   design:
+  # #     columns: '2'
   - block: contact
     id: contact
     content:

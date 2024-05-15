@@ -11,7 +11,7 @@ address:
   postcode: 
   country: Switzerland
 
-summary: An invited talk at the 2024 Workshop on Reading Comprehension Assessment from Eye Movements, discussing the latest advancements in the field.
+summary: A talk at the 2024 Workshop on Reading Comprehension Assessment from Eye Movements, discussing the latest advancements in the field.
 
 date: '2023-06-20T14:00:00Z'
 all_day: true

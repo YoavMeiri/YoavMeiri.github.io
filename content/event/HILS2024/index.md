@@ -7,29 +7,28 @@ location: Radboud University
 address:
   street:
   city: Nijmegen
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Netherlands
 
 summary: Poster presentation at the 2024 Highlights in the Language Sciences Conference, on the topic of adressing the misalignment between humans and large language models in repeated text processing.
 
-date: '2024-07-08T12:00:00Z'
+date: "2024-07-08T12:00:00Z"
 all_day: true
 
-publishDate: '2024-05-16T12:00:00Z'
+publishDate: "2024-05-16T12:00:00Z"
 
 authors: []
 tags: []
 
 featured: false
 
+url_code: ""
+url_pdf: "HILS.pdf"
+url_slides: ""
+url_video: ""
 
-url_code: ''
-url_pdf: 'HILS.pdf'
-url_slides: ''
-url_video: ''
-
-slides: ''
+slides: ""
 
 projects: []
 ---
