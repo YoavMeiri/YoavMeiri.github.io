@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 url_code: ""
-# url_pdf: "hsp.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

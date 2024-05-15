@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 url_code: ""
-# url_pdf: "HILS.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
