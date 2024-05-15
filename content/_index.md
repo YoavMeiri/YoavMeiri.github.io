@@ -48,8 +48,8 @@ sections:
           company_url: 
           company_logo: ''
           location: ''
-          date_start: '2024-08'
-          date_end: '2024-09'
+          date_start: '2024-08-01'
+          date_end: '2024-09-01'
           # description: |2-
           #   * Teaching Assistant for Language, Computation & Cognition.
         - title: Research Assistant
@@ -57,12 +57,10 @@ sections:
           # company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
           # company_logo: lab-logo
           # location: ''
-          date_start: '2022-08-1'
+          date_start: '2022-08-01'
           date_end: '2023-06-01'
           description: |2-
-            * Active part in , a 3D optical scattering tomography space mission to probe clouds.
-                        
-            * Collaborated on developing an atmospheric lidar simulator & deep-learning-based calibration method.
+            * Active part in "Incremental Accumulation of Linguistic Context in Artificial and Biological Neural Networks"
 
     design:
       columns: '2'
@@ -181,7 +179,7 @@ sections:
       text: |-
         Contact me at:
       # Contact (add or remove contact options as necessary)
-      email: <last_name>(at)campus.technion.ac.il
+      email: <last_name>.<first_name>(at)campus.technion.ac.il
       # Automatically link email and phone or display as text?
       autolink: false
     design:
