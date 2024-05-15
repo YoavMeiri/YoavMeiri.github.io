@@ -1,7 +1,7 @@
 ---
-title: Eye Movements and Reading Comprehension in Ordinary versus Information-Seeking Reading
+title: Eye Movements and Reading Comprehension in Repeated Reading
 
-event: 2023 Workshop on Predicting Reading Comprehension from Eye Movements
+event: The 2nd Workshop of Eye Movements and the Assessment of Reading Comprehension
 
 location: University of Zurich
 address:
@@ -11,21 +11,21 @@ address:
   postcode: 
   country: Switzerland
 
-summary: An invited talk at the 2023 Workshop on Predicting Reading Comprehension from Eye Movements, discussing the latest advancements in the field.
+summary: An invited talk at the 2024 Workshop on Reading Comprehension Assessment from Eye Movements, discussing the latest advancements in the field.
 
-date: '2023-06-23T14:00:00Z'
+date: '2023-06-20T14:00:00Z'
 all_day: true
 
-publishDate: '2023-06-01T00:00:00Z'
+publishDate: '2023-05-15T14:00:00Z'
 
 authors: []
 tags: []
 
 featured: false
 
-image:
-  caption: 'Cover Slide'
-  focal_point: Center
+# image:
+#   caption: 'Cover Slide'
+#   focal_point: Center
 
 url_code: ''
 url_pdf: ''

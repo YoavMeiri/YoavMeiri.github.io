@@ -1,16 +1,16 @@
 ---
-title: Eye Movements in Information-Seeking Reading
+title: Eye Movements in Repeated Reading
 
-event: 2023 Annual Conference on Human Sentence Processing (HSP)
+event: 2024 Annual Conference on Human Sentence Processing (HSP)
 
 location: Virtual
 
-summary: Short Talk at the 2023 Annual Conference on Human Sentence Processing (HSP), on the topic of eye movements in information-seeking reading.
+summary: Short Talk at the 2023 Annual Conference on Human Sentence Processing (HSP), on the topic of eye movements in repeated reading.
 
-date: '2023-03-11T14:00:00Z'
+date: '2024-05-16T12:00:00Z'
 all_day: true
 
-publishDate: '2023-06-01T00:00:00Z'
+publishDate: '2024-05-16T12:00:00Z'
 
 authors: []
 tags: []
@@ -19,7 +19,7 @@ featured: false
 
 
 url_code: ''
-url_pdf: 'hsp2023.pdf'
+url_pdf: 'HSP - Eye Movements in Repeated Reading.pdf'
 url_slides: ''
 url_video: ''
 
