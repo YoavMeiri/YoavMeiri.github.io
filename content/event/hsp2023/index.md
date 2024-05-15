@@ -19,7 +19,7 @@ featured: false
 
 
 url_code: ''
-url_pdf: 'HSP - Eye Movements in Repeated Reading.pdf'
+url_pdf: 'HILS2024_abstract_-_Leveraging_Eye-Tracking_Data_to_Align_Language_Models_with_Human_Repeated_Reading_Behavior.pdf'
 url_slides: ''
 url_video: ''
 

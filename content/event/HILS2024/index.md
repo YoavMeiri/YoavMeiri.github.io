@@ -1,6 +1,5 @@
 ---
-title: Leveraging Eye-Tracking Data to Align Language Models with Human Repeated
-Reading Behavior
+title: Leveraging Eye-Tracking Data to Align Language Models with Human Repeated Reading Behavior
 
 event: Highlights in the Language Sciences Conference 2024
 
