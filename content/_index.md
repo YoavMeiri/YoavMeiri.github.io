@@ -39,36 +39,31 @@ sections:
           company_url: 'https://dds.technion.ac.il/'
           company_logo: ''
           location: ''
-          date_start: '2021-10-01'
-          date_end: '2023-09-30'
+          date_start: '2024-05-27'
+          date_end: '2024-08-25'
           description: |2-
-            * Head Teaching Assistant for Language, Computation & Cognition (Joint course; Spring 2022 and Spring 2023).
-            * Teaching Assistant for Database Management (Undergraduate course; Winter 2022 and Winter 2023).
-            * Mentoring undergrad final project (Spring 2023).
-        - title: Research Assistant
-          company: Hybrid Imaging Lab, Electrical and Computer Engineering Faculty, Technion
-          company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
-          company_logo: lab-logo
+            * Teaching Assistant for Language, Computation & Cognition.
+        - title: Data Scientist
+          company: 8200 Unit, IDF
+          company_url: 
+          company_logo: ''
           location: ''
-          date_start: '2019-09-01'
-          date_end: '2021-09-30'
+          date_start: '2024-08'
+          date_end: '2024-09'
+          # description: |2-
+          #   * Teaching Assistant for Language, Computation & Cognition.
+        - title: Research Assistant
+          company: NLP Lab, Data and Decisions Sciences, Technion
+          # company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
+          # company_logo: lab-logo
+          # location: ''
+          date_start: '2022-08-1'
+          date_end: '2023-06-01'
           description: |2-
-            * Active part in [CloudCT](cloudct.space), a 3D optical scattering tomography space mission to probe clouds.
+            * Active part in , a 3D optical scattering tomography space mission to probe clouds.
                         
             * Collaborated on developing an atmospheric lidar simulator & deep-learning-based calibration method.
-        - title: Multiple Roles
-          company: Watteam (Start-Up Company)
-          company_url: ''
-          company_logo: 'watteam-logo'
-          location: ''
-          date_start: '2015-03-01'
-          date_end: '2018-11-30'
-          description: |2-
-            * Head of Business Development, China.
-            
-            * Customer Satisfaction Manager.
-            
-            * Project & Lab Manager.
+
     design:
       columns: '2'
   # - block: accomplishments
