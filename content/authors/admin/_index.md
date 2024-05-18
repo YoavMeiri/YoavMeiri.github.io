@@ -51,5 +51,5 @@ first_name: Yoav
 email: ""
 ---
 
-I am a Msc. student in Data Science at the Technion, under the supervision of [Yevgeni Berzak](https://dds.technion.ac.il/academicstaff/yevgeni-berzak/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
+I am a Msc. student in Data Science at the Technion, under the supervision of [Yevgeni Berzak](https://people.csail.mit.edu/berzak/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
 My research utilizes eye tracking data to study reading behaviour in humans and Large Language Models (LLMs) across different reading regimes (e.g. task-based reading, repeated reading), examine the alignment between the two and bridge the gap using human reading data.
