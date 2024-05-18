@@ -23,12 +23,7 @@ tags: []
 
 featured: true
 
-url_code: ""
-url_pdf: "content\\event\HILS2024\HILS.pdf"
-url_slides: ""
-url_video: ""
-
-slides: ""
+url_pdf: 'content\\event\HILS2024\HILS.pdf'
 
 projects: []
 ---

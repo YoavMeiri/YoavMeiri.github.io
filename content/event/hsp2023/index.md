@@ -17,12 +17,8 @@ tags: []
 
 featured: true
 
-url_code: ""
-url_pdf: "content\\event\hsp2023\hsp.pdf"
-url_slides: ""
-url_video: ""
+url_pdf: 'content\\event\hsp2023\hsp.pdf'
 
-slides: ""
 
 projects: []
 ---
