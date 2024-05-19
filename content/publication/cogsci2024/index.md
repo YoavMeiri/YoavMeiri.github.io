@@ -10,23 +10,18 @@ authors:
 author_notes: []
 publication: In *bioRxiv*
 summary: This study investigates how eye movements differ between first and repeated readings, revealing significant facilitation effects influenced by reading goals, intervening text, and task relevance, with these effects varying by reading speed but not proficiency.
-url_project: ""
 publication_short: In the proceedings of CogSci2024
 # url_source: "https://www.biorxiv.org/content/10.1101/2024.01.15.575798v2.full"
-url_video: ""
 title: "Déjà Vu: Eye Movements in Repeated Reading"
 # doi: "https://doi.org/10.1101/2024.01.15.575798"
 featured: true
 tags: []
 projects: []
 image:
-  caption: "Reading Times"
-  focal_point: ""
+  caption: "cogimage"
   preview_only: false
 date: 2024-05-19T00:00:00.000Z
 url_pdf: 'content\\publication\cogsci2024\Deja_Vu_-_Eye_Movements_in_Repeated_Reading_Meiri_Berzak.pdf'
-url_slides: ""
 # publishDate: 2024-01-17T00:00:00.000Z
-url_poster: ""
-url_code: ""
+
 ---
