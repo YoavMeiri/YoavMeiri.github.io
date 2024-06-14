@@ -11,9 +11,8 @@ author_notes: []
 publication: Proceedings of the 46th Annual Conference of the Cognitive Science Society
 summary: This study investigates how eye movements differ between first and repeated readings, revealing significant facilitation effects influenced by reading goals, intervening text, and task relevance, with these effects varying by reading speed but not proficiency.
 publication_short: Proceedings of the 46th Annual Conference of the Cognitive Science Society
-# url_source: "https://www.biorxiv.org/content/10.1101/2024.01.15.575798v2.full"
 title: "Déjà Vu: Eye Movements in Repeated Reading"
-# doi: "https://doi.org/10.1101/2024.01.15.575798"
+url_source: "https://escholarship.org/uc/item/5fd0z5qs"
 featured: true
 tags: []
 projects: []
