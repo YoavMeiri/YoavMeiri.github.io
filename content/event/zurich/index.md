@@ -29,7 +29,7 @@ featured: true
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'content\\event\zurich\ET_RR_YoavMeiri.pdf'
 url_video: ''
 
 slides: ''
