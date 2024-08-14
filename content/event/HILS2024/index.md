@@ -23,7 +23,7 @@ tags: []
 
 featured: true
 
-url_pdf: "talk/Leveraging-Eye-Tracking-Data-to-Align-Language-Models-with-Human-Repeated-Reading-Behavior/HILS.pdf"
+url_pdf: "talk/leveraging-eye-tracking-data-to-align-language-models-with-human-repeated-reading-behavior/HILS.pdf"
 
 projects: []
 ---

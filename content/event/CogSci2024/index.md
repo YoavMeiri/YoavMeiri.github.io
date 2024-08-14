@@ -22,7 +22,7 @@ all_day: true
 
 featured: true
 
-url_pdf: "talk/CogSci2024/CogSci2024_Poster.pdf"
+url_pdf: "talk/cogsci-2024-deja-vu-eye-movements-in-repeated-reading/CogSci2024_Poster.pdf"
 
 projects: []
 ---
