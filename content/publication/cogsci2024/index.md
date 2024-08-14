@@ -20,6 +20,6 @@ image:
   caption: "cogimage"
   preview_only: false
 date: 2024-05-19T00:00:00.000Z
-url_pdf: 'content/publication/cogsci2024/Deja_Vu_-_Eye_Movements_in_Repeated_Reading_Meiri_Berzak.pdf'
+url_pdf: 'content\publication\cogsci2024\Deja_Vu_-_Eye_Movements_in_Repeated_Reading_Meiri_Berzak.pdf'
 
 ---
