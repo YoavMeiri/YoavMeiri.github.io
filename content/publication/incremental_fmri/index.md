@@ -25,7 +25,7 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Reading Times"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2024-05-02T00:00:00.000Z
