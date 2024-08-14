@@ -29,7 +29,7 @@ featured: true
 
 url_code: ""
 url_pdf: ""
-url_slides: "event/zurich/ET_RR_YoavMeiri.pdf"
+url_slides: "talk/Eye-Movements-and-Reading-Comprehension-in-Repeated-Reading/ET_RR_YoavMeiri.pdf"
 url_video: ""
 
 slides: ""

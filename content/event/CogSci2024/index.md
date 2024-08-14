@@ -20,9 +20,9 @@ summary: Poster presentation at the 46th Annual Meeting of the Cognitive Science
 date: "2024-07-26T12:00:00Z"
 all_day: true
 
-featured: false
+featured: true
 
-url_pdf: "event/CogSci2024/CogSci2024_Poster.pdf"
+url_pdf: "talk/CogSci2024/CogSci2024_Poster.pdf"
 
 projects: []
 ---

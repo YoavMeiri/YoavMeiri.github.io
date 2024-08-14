@@ -17,7 +17,7 @@ tags: []
 
 featured: true
 
-url_pdf: 'event/hsp2023/hsp.pdf'
+url_pdf: 'talk/Eye-Movements-in-Repeated-Reading/hsp.pdf'
 
 projects: []
 ---
