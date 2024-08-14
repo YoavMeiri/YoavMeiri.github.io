@@ -23,7 +23,7 @@ tags: []
 
 featured: true
 
-url_pdf: 'HILS.pdf'
+url_pdf: 'event/HILS2024/HILS.pdf'
 
 projects: []
 ---

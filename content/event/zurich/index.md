@@ -7,16 +7,16 @@ location: University of Zurich
 address:
   street:
   city: Zurich
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Switzerland
 
 summary: A talk at the 2024 Workshop on Reading Comprehension Assessment from Eye Movements, discussing the latest advancements in the field.
 
-date: '2023-06-21T14:00:00Z'
+date: "2023-06-21T14:00:00Z"
 all_day: true
 
-publishDate: '2023-05-15T14:00:00Z'
+publishDate: "2023-05-15T14:00:00Z"
 
 authors: []
 tags: []
@@ -27,12 +27,12 @@ featured: true
 #   caption: 'Cover Slide'
 #   focal_point: Center
 
-url_code: ''
-url_pdf: ''
-url_slides: 'content\\event\zurich\ET_RR_YoavMeiri.pdf'
-url_video: ''
+url_code: ""
+url_pdf: ""
+url_slides: "event/zurich/ET_RR_YoavMeiri.pdf"
+url_video: ""
 
-slides: ''
+slides: ""
 
 projects: []
 ---

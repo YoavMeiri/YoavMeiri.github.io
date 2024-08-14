@@ -22,7 +22,7 @@ all_day: true
 
 featured: false
 
-url_pdf: 'CogSci2024_Poster.pdf'
+url_pdf: "event/CogSci2024/CogSci2024_Poster.pdf"
 
 projects: []
 ---
