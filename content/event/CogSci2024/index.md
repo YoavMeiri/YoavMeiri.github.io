@@ -25,7 +25,7 @@ tags: []
 
 featured: true
 
-url_pdf: 'content\\event\\CogSci2024\\CogSci2024_Poster.pdf'
+url_pdf: 'CogSci2024_Poster.pdf'
 
 projects: []
 ---
