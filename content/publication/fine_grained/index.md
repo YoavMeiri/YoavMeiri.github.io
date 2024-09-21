@@ -10,9 +10,8 @@ authors:
   - Cfir Avraham Hadar
   - Yevgeni Berzak
 author_notes: []
-publication: Proceedings of the 46th Annual Conference of the Cognitive Science Society
-summary: This study investigates how eye movements differ between first and repeated readings, revealing significant facilitation effects influenced by reading goals, intervening text, and task relevance, with these effects varying by reading speed but not proficiency.
-publication_short: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+publication: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+publication_short: EMNLP 2024
 title: "Fine-Grained Prediction of Reading Comprehension from Eye Movements"
 url_source: "https://openreview.net/forum?id=vMaXZzFEWZ"
 featured: true
