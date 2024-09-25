@@ -1,5 +1,5 @@
 ---
-title: Fine-Grained Prediction of Reading Comprehension from Eye Movements
+title: ISCOL 2024 - Fine-Grained Prediction of Reading Comprehension from Eye Movements
 
 event: ISCOL2024
 

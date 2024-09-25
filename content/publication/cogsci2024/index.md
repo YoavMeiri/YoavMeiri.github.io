@@ -10,7 +10,8 @@ authors:
 author_notes: []
 publication: Proceedings of the 46th Annual Conference of the Cognitive Science Society
 summary: This study investigates how eye movements differ between first and repeated readings in L1 English readers, focusing on linguistic properties and various reading contexts. The findings reveal significant facilitation effects during repeated reading, influenced by reading regime, intervening text, and task relevance, while also highlighting individual differences related to reading speed but not proficiency, offering insights for future models of reading eye movements.
-publication_short: Proceedings of the 46th Annual Conference of the Cognitive Science Society
+publication: Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci)
+publication_short: CogSci 2024
 title: "Déjà Vu: Eye Movements in Repeated Reading"
 url_source: "https://escholarship.org/uc/item/5fd0z5qs"
 featured: true

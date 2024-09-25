@@ -1,5 +1,5 @@
 ---
-title: "CogSci 2024 - Déjà Vu: Eye Movements in Repeated Reading"
+title: "Déjà Vu: Eye Movements in Repeated Reading"
 
 event: CogSci 2024
 
@@ -22,7 +22,7 @@ all_day: true
 
 featured: true
 
-url_pdf: "talk/cogsci-2024-deja-vu-eye-movements-in-repeated-reading/CogSci2024_Poster.pdf"
+url_pdf: "talk/deja-vu-eye-movements-in-repeated-reading/CogSci2024_Poster.pdf"
 
 projects: []
 ---
