@@ -13,7 +13,6 @@ author_notes: []
 publication: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 publication_short: EMNLP 2024
 title: "Fine-Grained Prediction of Reading Comprehension from Eye Movements"
-url_source: "https://openreview.net/forum?id=vMaXZzFEWZ"
 featured: true
 tags: []
 projects: []
@@ -21,4 +20,5 @@ image:
   caption: ""
   preview_only: false
 date: 2024-09-20T00:00:00.000Z
+url_pdf: "publication/emnlp2024/Reading_Comprehension_from_Eye_Movements___ACL_Template_"
 ---
