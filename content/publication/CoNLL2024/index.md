@@ -9,6 +9,7 @@ authors:
   - admin
   - Omer Shubi
   - Yevgeni Berzak
+summary: This study investigates the impact of word predictability on processing difficulty in different reading contexts, including information seeking and repeated processing. While general predictions about the relationship between word predictability and processing time hold, specific contexts reveal discrepancies with surprisal theory, indicating potential misalignments between human cognitive mechanisms and existing language models.
 author_notes: []
 publication: The SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2024
 publication_short: CoNLL 2024

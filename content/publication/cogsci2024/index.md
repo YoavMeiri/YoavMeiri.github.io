@@ -9,7 +9,7 @@ authors:
   - Yevgeni Berzak
 author_notes: []
 publication: Proceedings of the 46th Annual Conference of the Cognitive Science Society
-summary: This study investigates how eye movements differ between first and repeated readings, revealing significant facilitation effects influenced by reading goals, intervening text, and task relevance, with these effects varying by reading speed but not proficiency.
+summary: This study investigates how eye movements differ between first and repeated readings in L1 English readers, focusing on linguistic properties and various reading contexts. The findings reveal significant facilitation effects during repeated reading, influenced by reading regime, intervening text, and task relevance, while also highlighting individual differences related to reading speed but not proficiency, offering insights for future models of reading eye movements.
 publication_short: Proceedings of the 46th Annual Conference of the Cognitive Science Society
 title: "Déjà Vu: Eye Movements in Repeated Reading"
 url_source: "https://escholarship.org/uc/item/5fd0z5qs"
