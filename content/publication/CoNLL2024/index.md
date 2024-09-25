@@ -20,6 +20,6 @@ projects: []
 image:
   caption: ""
   preview_only: false
-date: 2024-09-25T12:00:00.000Z
-url_pdf: "publication/conll2024/Surprisal_in_Information_Seeking_and_Repeated_Reading.pdf"
+date: 2024-09-25T00:00:00.000Z
+url_pdf: "publication/CoNLL2024/Surprisal_in_Information_Seeking_and_Repeated_Reading.pdf"
 ---
