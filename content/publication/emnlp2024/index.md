@@ -15,6 +15,7 @@ publication: The 2024 Conference on Empirical Methods in Natural Language Proces
 publication_short: EMNLP 2024
 title: "Fine-Grained Prediction of Reading Comprehension from Eye Movements"
 featured: true
+doi: "https://doi.org/10.48550/arXiv.2410.04484"
 tags: []
 projects: []
 image:
