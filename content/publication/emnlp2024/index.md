@@ -11,7 +11,7 @@ authors:
   - Yevgeni Berzak
 summary: This study explores whether eye movements during reading can effectively predict reading comprehension, utilizing large-scale eyetracking data and focusing on single-question assessments from text passages. The findings indicate that while the task is challenging, eye movements provide valuable signals for predicting comprehension, with evaluations conducted across various models and reading contexts, and all data and code will be made publicly available.
 author_notes: []
-publication: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+publication: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
 publication_short: EMNLP 2024
 title: "Fine-Grained Prediction of Reading Comprehension from Eye Movements"
 featured: true
@@ -22,5 +22,5 @@ image:
   caption: ""
   preview_only: false
 date: 2024-09-20T00:00:00.000Z
-url_pdf: "publication/emnlp2024/Reading_Comprehension_from_Eye_Movements___ACL_Template_.pdf"
+url_pdf: "https://aclanthology.org/2024.emnlp-main.198.pdf"
 ---

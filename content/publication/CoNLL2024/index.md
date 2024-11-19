@@ -11,16 +11,16 @@ authors:
   - Yevgeni Berzak
 summary: This study investigates the impact of word predictability on processing difficulty in different reading contexts, including information seeking and repeated processing. While general predictions about the relationship between word predictability and processing time hold, specific contexts reveal discrepancies with surprisal theory, indicating potential misalignments between human cognitive mechanisms and existing language models.
 author_notes: []
-publication: The SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2024
+publication: Proceedings of the 28th Conference on Computational Natural Language Learning
 publication_short: CoNLL 2024
 title: "The Effect of Word Predictability on Reading Times in Information Seeking and Repeated Reading"
 featured: true
-doi: "https://doi.org/10.48550/arXiv.2410.08162"
+doi: "https://aclanthology.org/2024.conll-1.17/"
 tags: []
 projects: []
 image:
   caption: ""
   preview_only: false
 date: 2024-09-25T00:00:00.000Z
-url_pdf: "publication/conll2024/Surprisal_in_Information_Seeking_and_Repeated_Reading.pdf"
+url_pdf: "https://aclanthology.org/2024.conll-1.17.pdf"
 ---
