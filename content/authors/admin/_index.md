@@ -1,11 +1,12 @@
 ---
 title: Yoav Meiri
 role: Msc. Student in Data Science
-bio: My research explores reading behaviour of humans of language model across different reading regimes.
+bio: I am an MSc student in Data Science at the Technion, studying human language processing through computational modeling of reading behavior and linguistic patterns using eye-tracking data.
 
 interests:
   - Natural Language Processing (NLP)
-  - Computational Linguistics
+  - Computational Psycholinguistics
+  - Multimodal Learning
   - Cognitive Science
 social:
   - icon: envelope
@@ -36,7 +37,7 @@ organizations:
     url: https://www.technion.ac.il/en/home-2/
 education:
   courses:
-    - course: Msc. in Data Science - With Thesis
+    - course: MSc in Data Science - With Thesis
       institution: Technion - Israel Institute of Technology
       year: "Oct 2023 - Mar 2025"
     - course: BSc in Data Science & Engineering
@@ -51,5 +52,6 @@ first_name: Yoav
 email: ""
 ---
 
-I am a Msc. student in Data Science at the Technion, under the supervision of [Yevgeni Berzak](https://people.csail.mit.edu/berzak/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
-My research utilizes eye tracking data to study reading behaviour in humans and Large Language Models (LLMs) across different reading regimes (e.g. task-based reading, repeated reading), examine the alignment between the two and bridge the gap using human reading data.
+I am an MSc student in Data Science at the Technion, working under the supervision of [Yevgeni Berzak](https://people.csail.mit.edu/berzak/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
+My research focuses on computational approaches to studying human language processing, using eye-tracking data to model reading behavior and linguistic patterns.
+By developing and applying computational methods, I aim to uncover the fine-grained dynamics of reading across different contexts, contributing to a deeper understanding of how humans and AI systems interact with language.
