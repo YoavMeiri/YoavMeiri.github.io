@@ -36,34 +36,25 @@ sections:
       items:
         - title: Teaching
           company: Faculty of Data & Decision Sciences, Technion
-          company_url: 'https://dds.technion.ac.il/'
-          company_logo: ''
-          location: ''
-          date_start: '2024-05-27'
-          date_end: '2024-08-25'
+          company_url: "https://dds.technion.ac.il/"
+          company_logo: ""
+          location: ""
+          date_start: "2024-05-27"
+          date_end: "2024-08-25"
           description: |2-
             * Teaching Assistant for Language, Computation & Cognition.
-        - title: Data Scientist
-          company: 8200 Unit, IDF
-          company_url: 
-          company_logo: ''
-          location: ''
-          date_start: '2024-08-01'
-          date_end: '2024-09-01'
-          # description: |2-
-          #   * Teaching Assistant for Language, Computation & Cognition.
         - title: Research Assistant
           company: NLP Lab, Data and Decisions Sciences, Technion
           # company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
           # company_logo: lab-logo
           # location: ''
-          date_start: '2022-08-01'
-          date_end: '2023-06-01'
+          date_start: "2022-08-01"
+          date_end: "2023-06-01"
           description: |2-
             * Active part in "Incremental Accumulation of Linguistic Context in Artificial and Biological Neural Networks"
 
     design:
-      columns: '2'
+      columns: "2"
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -139,7 +130,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: "2"
       view: card
   - block: collection
     id: talks
@@ -149,7 +140,7 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
+      columns: "2"
       view: compact
   # - block: collection
   #   content:
@@ -183,5 +174,5 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: false
     design:
-      columns: '2'
+      columns: "2"
 ---
