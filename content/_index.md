@@ -37,7 +37,7 @@ sections:
         - title: Teaching
           company: Faculty of Data & Decision Sciences, Technion
           company_url: "https://dds.technion.ac.il/"
-          company_logo: "assets/media/technion_logo"
+          company_logo: "technion_logo"
           location: ""
           date_start: "2024-05-27"
           date_end: "2024-08-25"
@@ -45,7 +45,7 @@ sections:
             * Teaching Assistant for Language, Computation & Cognition.
         - title: Research Assistant
           company: NLP Lab, Data and Decisions Sciences, Technion
-          company_logo: "assets/media/technion_logo"
+          company_logo: "technion_logo"
           # location: ''
           date_start: "2022-08-01"
           date_end: "2023-06-01"
