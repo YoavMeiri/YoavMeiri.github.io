@@ -20,6 +20,7 @@ url_source: "https://arxiv.org/abs/2502.11061"
 url_video: ""
 title: Déjà Vu? Decoding Repeated Reading from Eye Movements
 doi: "https://doi.org/10.48550/arXiv.2502.11061"
+summary: The work investigates whether a reader’s prior exposure to a text can be detected solely from their eye movements. To tackle this, the authors propose two task variants and demonstrate that both feature-based and neural models can successfully distinguish repeated readings from first readings. They further enhance their models by incorporating machine-generated simulations of eye movements from a cognitive model and provide an analysis that sheds light on the underlying memory effects, paving the way for future predictive applications in repeated reading.
 featured: true
 tags: []
 projects: []
